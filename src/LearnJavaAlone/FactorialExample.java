@@ -9,7 +9,7 @@ public class FactorialExample {
             fact=fact*i; // here is factoriial
         }
 
-        System.out.println("Factorial of"+number+"is:"+fact); //here will give us the output factorial of 5 is 120
+        System.out.println("Factorial of"+number+"is:"+fact); //here will give us the output factorial of 5 is 24
 
 
 
