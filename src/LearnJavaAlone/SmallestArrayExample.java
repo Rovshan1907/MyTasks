@@ -29,3 +29,8 @@ public class SmallestArrayExample {
     }
 
 }
+/*
+a[]={1,2,5,6,3,2};
+b[]={44,66,99,77,33,22,55};
+find the smallest number An Array
+ */
