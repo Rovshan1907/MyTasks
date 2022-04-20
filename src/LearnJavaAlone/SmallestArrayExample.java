@@ -1,7 +1,4 @@
 package LearnJavaAlone;
-
-import javax.imageio.stream.ImageInputStream;
-
 public class SmallestArrayExample {
     public static int getSmallest(int[] a, int total) {
 
